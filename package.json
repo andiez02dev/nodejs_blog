@@ -1,0 +1,31 @@
+{
+  "name": "f8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andiez02dev/nodejs_blog.git"
+  },
+  "keywords": [
+    "f8",
+    "nodejs",
+    "blog"
+  ],
+  "author": "andiezdev02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andiez02dev/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/andiez02dev/nodejs_blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
